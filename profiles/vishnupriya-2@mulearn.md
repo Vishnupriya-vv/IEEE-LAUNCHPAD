@@ -2,25 +2,34 @@
 
 ### About Me
 
-> My name is Vishnupriya. I have completed my btech degree in Computer Science and Engineering from College of Engineering Perumon. 
+> I am Vishnupriya, a recent Computer Science graduate from the College of Engineering Perumon with a 7.8 CGPA. Based in Alappuzha, I have a strong foundation in Python, SQL, C, HTML, and proficiency in CSS, JavaScript, and the MERN stack. My technical skills extend to React and MUI, which I use for developing responsive user interfaces.
+
+In addition to my technical expertise, I have developed strong leadership skills through extensive volunteering during my college years. I have completed projects like a Signature Verification System using Siamese neural networks and a Music Recommendation System using K-means clustering. My most notable project is a full-stack blog application utilizing JWT and bcrypt for authentication, enhancing user experience with Material-UI, React Router, and Context API.
+
+I am passionate about continuous learning and professional development, aspiring to contribute effectively to the IT industry and secure my dream job. 
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+| Name                   | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Full Stack Blog Application using MERN**  | Developed a full-stack blog application using the MERN stack, implementing JWT and bcrypt for robust authentication and utilizing Material-UI for a responsive interface.
+[Repo Link 1](https://github.com/Vishnupriya-vv/BlogApp)             
+
+| **Signature Verification System**  | Build a Signature Verification System using backpropagation and neural networks, implementing Siamese neural networks                                            
+
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I have demonstrated leadership and influence in various capacities throughout my academic and professional experiences. One notable example is my role as a project lead for a Signature Verification System using Siamese neural networks. I led a team of developers, coordinated tasks, and facilitated clear communication among team members. I have volunteered in numerous college activities, organising events and leading teams, honing my skills in delegation, motivation, and conflict resolution. 
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+I have developed strong networking skills through my extensive involvement with IEEE. As Chairperson of the WIE and ComSoc Societies IEEE Student Branch at College of Engineering Perumon, I engaged with professionals, academics, and peers, fostering valuable connections within the tech community. I organized and participated in various events, workshops, and conferences, which enhanced my network and provided me with insights into industry trends and best practices.
+
+I have effectively utilized my networking skills and leadership abilities by conducting a Python session for juniors at the College of Engineering Perumon. This experience allowed me to share my knowledge with emerging developers, fostering their growth and contributing to their understanding of Python.
 
 #### Career Plan:
 
