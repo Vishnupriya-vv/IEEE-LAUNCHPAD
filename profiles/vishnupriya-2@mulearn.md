@@ -17,15 +17,22 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I have demonstrated leadership and influence in various capacities throughout my academic and professional experiences. One notable example is during my role as a project lead for a Signature Verification System using Siamese neural networks. I led a team of developers, coordinated tasks, and facilitated clear communication among team members.
+- Additionally, I have volunteered in numerous college activities, where I organized events and led teams, honing my skills in delegation, motivation, and conflict resolution.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I have developed strong networking skills through my extensive involvement with IEEE. As Chairperson of the WIE and ComSoc Societies IEEE Student Branch at College of Engineering Perumon, I engaged with professionals, academics, and peers, fostering valuable connections within the tech community.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- **Short-Term Goals**
+- Advance expertise in python, React.js and cloud technologies.
+- Connect with industry professionals through meetups and online communities.
+- Contribute to open-source projects and seek freelance work.
+- **Long-Term Goals**
+- Aspire to secure a leadership role where I can manage projects and guide teams.
+- Pursue advanced certifications and stay updated with industry trends.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
