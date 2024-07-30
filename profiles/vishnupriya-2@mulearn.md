@@ -26,41 +26,14 @@
 
 #### Career Plan:
 
-- **Short-Term Goals**
+ **Short-Term Goals**
 - Advance expertise in python, React.js and cloud technologies.
 - Connect with industry professionals through meetups and online communities.
 - Contribute to open-source projects and seek freelance work.
-- **Long-Term Goals**
+ **Long-Term Goals**
 - Aspire to secure a leadership role where I can manage projects and guide teams.
 - Pursue advanced certifications and stay updated with industry trends.
 
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+>> check out my LinkedIn Profile : [(https://linkedin.com/in/vishnu--priya )]
 
 ---
