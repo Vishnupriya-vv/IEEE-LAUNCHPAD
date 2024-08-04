@@ -26,14 +26,13 @@
 
 #### Career Plan:
 
-> **Short-Term Goals :**
+ **Short-Term Goals :**
 - Advance expertise in python, React.js and cloud technologies.
 - Connect with industry professionals through meetups and online communities.
 - Contribute to open-source projects and seek freelance work.
-> **Long-Term Goals :**
+ **Long-Term Goals :**
 - Aspire to secure a leadership role where I can manage projects and guide teams.
 - Pursue advanced certifications and stay updated with industry trends.
 
->> check out my LinkedIn Profile : https://linkedin.com/in/vishnu--priya 
+>> check out my LinkedIn Profile : (https://linkedin.com/in/vishnu--priya) 
 
----
