@@ -34,5 +34,5 @@
 - Aspire to secure a leadership role where I can manage projects and guide teams.
 - Pursue advanced certifications and stay updated with industry trends.
 
->> check out my LinkedIn Profile : (https://linkedin.com/in/vishnu--priya) 
+>> check out my LinkedIn Profile : https://linkedin.com/in/vishnu--priya
 
