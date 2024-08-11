@@ -9,12 +9,10 @@
 ## Portfolio Highlights
 
 ### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Blog App**  | Developed a MERN blog platform utilizing REST APIs, JWT, bcrypt and Material-UI. Optimized state management using React Router and Context API. Integrated Toastify for real-time feedback.                                               | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Vishnupriya-vv/BlogApp)             |
-| **Signature Verification System**  | Developed a  signature verification system using backpropagation and neural network implementing siamese neural network. Achieved a 97% accuracy rate in signature verification.                                            | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
+## Projects
+- **Blog Application (MERN Stack):** A comprehensive blogging platform with features like user authentication, CRUD operations, and a responsive design.[Repo Link](https://github.com/Vishnupriya-vv/BlogApp)
+- **Signature Verification System:** A neural network model that uses a Siamese neural network to verify signatures.
+- **Music Recommendation System:** A machine learning project that recommends music based on user preferences using K-means clustering.
 #### Leadership and Influence:
 
 - I have demonstrated leadership and influence in various capacities throughout my academic and professional experiences. One notable example is during my role as a project lead for a Signature Verification System using Siamese neural networks. I led a team of developers, coordinated tasks, and facilitated clear communication among team members.
@@ -26,11 +24,12 @@
 
 #### Career Plan:
 
- **Short-Term Goals :**
+**Short-Term Goals :**
 - Advance expertise in python, React.js and cloud technologies.
 - Connect with industry professionals through meetups and online communities.
 - Contribute to open-source projects and seek freelance work.
- **Long-Term Goals :**
+  
+**Long-Term Goals :**
 - Aspire to secure a leadership role where I can manage projects and guide teams.
 - Pursue advanced certifications and stay updated with industry trends.
 
